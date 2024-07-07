@@ -9,6 +9,7 @@ A curated collection of open-source and free datasets spanning diverse domains. 
 | Name                    | Description                                      |
 |-------------------------|------------------------------------------|
 | [Formula 1 Race Data](https://ergast.com/mrd/)      | Historical data of Formula 1 races from 1950           |
+| [Nobel Prize Winners](https://api.nobelprize.org/v1/prize.json)      | Historical data of Formula 1 races from 1950           |
 
 ## License
 
