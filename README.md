@@ -4,7 +4,7 @@
 
 A curated collection of open-source and free datasets spanning diverse domains. Empower your projects with a wealth of high-quality data for research, analysis, and development.
 
-## Physics
+## ⚛️Physics
 
 | Name                    | Description                                      |
 |-------------------------|------------------------------------------|
@@ -13,7 +13,7 @@ A curated collection of open-source and free datasets spanning diverse domains. 
 | [NASA Open Data Portal](https://data.nasa.gov/)    |  Open Data Portal of NASA           |
 | [CERN Open Data Portal](https://opendata.cern.ch/)    |  Data produced through the research performed at CERN           |
 
-## Sports
+## 🏅Sports
 
 | Name                    | Description                                      |
 |-------------------------|------------------------------------------|
