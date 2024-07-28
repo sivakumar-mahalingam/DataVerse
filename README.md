@@ -11,6 +11,7 @@ A curated collection of open-source and free datasets spanning diverse domains. 
 | [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)    | NASA Exoplanet Archive, operated by the California Institute of Technology           |
 | [NSSDC (NASA) data of 550 space spacecraft](https://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html)    |  Data from the NASA Space Science Data Coordinated Archive           |
 | [NASA Open Data Portal](https://data.nasa.gov/)    |  Open Data Portal of NASA           |
+| [CERN Open Data Portal](https://opendata.cern.ch/)    |  Data produced through the research performed at CERN           |
 
 ## Sports
 
